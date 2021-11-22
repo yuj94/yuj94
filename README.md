@@ -72,8 +72,8 @@ I'm an experienced architectural designer transitioning to full-stack developmen
 
 ### GitHub Analytics
 <p align="center">
-  <img height= "185" src="https://github-readme-stats.vercel.app/api?username=YuJ94&show_icons=true&custom_title=My%20GitHub%20Stats&theme=react&hide_border=true">
-  <img height= "185" src="https://github-readme-streak-stats.herokuapp.com/?user=YuJ94&theme=react&hide_border=true">
+  <img height= "165" src="https://github-readme-stats.vercel.app/api?username=YuJ94&show_icons=true&custom_title=My%20GitHub%20Stats&theme=react&hide_border=true">
+  <img height= "165" src="https://github-readme-streak-stats.herokuapp.com/?user=YuJ94&theme=react&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuJ94&theme=react&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuJ94&layout=compact&theme=react&hide_border=true">
 </p>
