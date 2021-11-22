@@ -1,6 +1,6 @@
 ## Thanks for stopping by! I'm Jackie. :wave:
 
-I'm an experienced architectural designer transitioning to full-stack development learning how to develop dynamic web applications using the Java programming language and platform. Check out some of the projects I've been working on [here](https://yuj94.github.io/portfolio/).
+I'm an experienced architectural designer transitioning to full-stack development learning how to develop dynamic web applications using the Java programming language and platform. Check out some of the projects I've been working on <a href="https://yuj94.github.io/portfolio/" target="_blank">here</a>.
 
 ### Technical Skills
 
