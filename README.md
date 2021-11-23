@@ -45,8 +45,8 @@ I'm an experienced architectural designer transitioning to full-stack developmen
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuJ94&theme=algolia&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuJ94&theme=algolia&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuJ94&theme=algolia&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuJ94&layout=compact&theme=algolia&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuJ94&layout=compact&theme=algolia&hide_border=true)
 
 <img src="https://komarev.com/ghpvc/?username=YuJ94">
