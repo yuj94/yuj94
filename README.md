@@ -41,7 +41,8 @@ I'm an experienced architectural designer transitioning to full-stack developmen
 -->
 
 ### GitHub Analytics
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YuJ94&show_icons=true&custom_title=My%20GitHub%20Stats&theme=algolia&hide_border=true)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuJ94&show_icons=true&custom_title=My%20GitHub%20Stats&theme=algolia&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuJ94&theme=algolia&hide_border=true)
 
