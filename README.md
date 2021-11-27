@@ -1,6 +1,6 @@
 ## Thanks for stopping by! I'm Jackie. :wave:
 
-I'm an experienced architectural designer transitioning to full-stack development learning how to develop dynamic web applications using the Java programming language and platform. Check out some of the projects I've been working on <a href="https://yuj94.github.io/portfolio/" target="_blank">here</a>.
+I'm an experienced architectural designer transitioning to full-stack development learning how to develop dynamic web applications using the Java programming language and platform. Check out my portfolio <a href="https://yuj94.github.io/portfolio/" target="_blank">here</a>!
 
 ### Technical Skills
 
@@ -41,11 +41,9 @@ I'm an experienced architectural designer transitioning to full-stack developmen
 -->
 
 ### GitHub Analytics
-![Jackie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuJ94&show_icons=true&custom_title=My%20GitHub%20Stats&theme=algolia&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YuJ94&show_icons=true&custom_title=My%20GitHub%20Stats&theme=algolia&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuJ94&theme=algolia&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuJ94&theme=algolia&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuJ94&layout=compact&theme=algolia&hide_border=true)
 
